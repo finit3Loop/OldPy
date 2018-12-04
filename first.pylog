@@ -1,0 +1,47 @@
+<file_created time="Wed Jan 13 08:19:55 CST 2016">
+<menu_button time="Wed Jan 13 08:30:41 CST 2016">Save Program As...</menu_button>
+<file_saved time="Wed Jan 13 08:32:04 CST 2016">c:\temp\first.py</file_saved>
+</file_created>
+<menu_button time="Wed Jan 13 08:32:28 CST 2016">Load Program</menu_button>
+<command_run time="Wed Jan 13 08:32:34 CST 2016">basic()></command_run>
+<command_run time="Wed Jan 13 08:39:23 CST 2016">basic()></command_run>
+<menu_button time="Wed Jan 13 08:39:30 CST 2016">Save Program</menu_button>
+<file_saved time="Wed Jan 13 08:39:30 CST 2016">c:\temp\first.py</file_saved>
+</file_created>
+<menu_button time="Wed Jan 13 08:39:39 CST 2016">Undo</menu_button>
+<command_run time="Wed Jan 13 08:39:45 CST 2016">basic()></command_run>
+<menu_button time="Wed Jan 13 08:39:50 CST 2016">Load Program</menu_button>
+<menu_button time="Wed Jan 13 08:39:58 CST 2016">Save Program</menu_button>
+<file_saved time="Wed Jan 13 08:39:58 CST 2016">c:\temp\first.py</file_saved>
+</file_created>
+<menu_button time="Wed Jan 13 08:40:01 CST 2016">Load Program</menu_button>
+<command_run time="Wed Jan 13 08:40:06 CST 2016">basic()></command_run>
+<menu_button time="Wed Jan 13 08:40:10 CST 2016">Save Program</menu_button>
+<file_saved time="Wed Jan 13 08:40:10 CST 2016">c:\temp\first.py</file_saved>
+</file_created>
+<menu_button time="Wed Jan 13 08:40:31 CST 2016">Save Program</menu_button>
+<file_saved time="Wed Jan 13 08:40:31 CST 2016">c:\temp\first.py</file_saved>
+</file_created>
+<command_run time="Wed Jan 13 08:45:21 CST 2016">></command_run>
+<command_run time="Wed Jan 13 08:45:23 CST 2016">basic()></command_run>
+<command_run time="Wed Jan 13 08:45:27 CST 2016">basic()></command_run>
+<command_run time="Wed Jan 13 08:45:28 CST 2016">basic()></command_run>
+<command_run time="Wed Jan 13 08:59:16 CST 2016">21/7></command_run>
+<command_run time="Wed Jan 13 08:59:28 CST 2016">22/7></command_run>
+<command_run time="Wed Jan 13 09:00:29 CST 2016">22.0/7></command_run>
+<command_run time="Wed Jan 13 09:00:39 CST 2016">basic()></command_run>
+<command_run time="Wed Jan 13 09:01:56 CST 2016">22%7></command_run>
+<command_run time="Wed Jan 13 09:04:48 CST 2016">22.0/7></command_run>
+<command_run time="Wed Jan 13 09:09:59 CST 2016">sean=10></command_run>
+<command_run time="Wed Jan 13 09:10:06 CST 2016">maun=5></command_run>
+<command_run time="Wed Jan 13 09:10:18 CST 2016">sean/maun></command_run>
+<command_run time="Wed Jan 13 09:12:19 CST 2016">maun+sean></command_run>
+<command_run time="Wed Jan 13 09:12:40 CST 2016">maun="5"></command_run>
+<command_run time="Wed Jan 13 09:12:55 CST 2016">sean="10"></command_run>
+<command_run time="Wed Jan 13 09:13:02 CST 2016">maun+sean></command_run>
+<command_run time="Wed Jan 13 09:14:37 CST 2016">sean=" 10"></command_run>
+<command_run time="Wed Jan 13 09:14:41 CST 2016">maun+sean></command_run>
+<menu_button time="Wed Jan 13 09:33:52 CST 2016">Save Program As...</menu_button>
+<menu_button time="Wed Jan 13 09:34:11 CST 2016">Save Program As...</menu_button>
+<file_saved time="Wed Jan 13 09:34:24 CST 2016">E:\first.py</file_saved>
+</file_created>
